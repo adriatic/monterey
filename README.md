@@ -9,4 +9,4 @@ This document describes the tool that expands the current [Redwood Command Line 
 Interactive CLI project can be perceived as the first, simplest step in the process of using on VS Code to host Rewood functionality - see [Redwood Outline / Project Explorer](https://marketplace.visualstudio.com/items?itemName=redwoodjs.redwood) for the introduction in that process.
 
 ### Caveat
-This document is written before being discussed with [aldonline](https://community.redwoodjs.com/u/aldonline) and his team - see [Announcing the Redwood IDE (VSCode Extension)](https://community.redwoodjs.com/t/announcing-the-redwood-ide-vscode-extension/1236)
+This document is written before being discussed with [aldonline](https://community.redwoodjs.com/u/aldonline) and his team - see [Announcing the Redwood IDE (VSCode Extension)](https://community.redwoodjs.com/t/announcing-the-redwood-ide-vscode-extension/1236). The improved version will be designed and implemented by the yet to be defined team following RW's implementation practices.
