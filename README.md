@@ -1,6 +1,6 @@
 # monterey (interactive CLI)
 
-Container for discussions and idea exchanges on improving the user experience by increased use of VS Code: see [project Monterey](https://github.com/adriatic/monterey/issues/1) for a brief overview of my previous work on a similar idea.
+_Container for discussions and idea exchanges on improving the user experience by increased use of VS Code: see [project Monterey](https://github.com/adriatic/monterey/issues/1) for a brief overview of my previous work on a similar idea._
 
 ## Executive summary
 
